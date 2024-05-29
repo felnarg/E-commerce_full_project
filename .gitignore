@@ -1,0 +1,12 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/E-commerce_Api/.vs/E-commerce_Api/v17/.suo
+/E-commerce_Api/.vs/E-commerce_Api/FileContentIndex/15927a80-155c-4134-aa1c-6c8e470c17f5.vsidx
+/E-commerce_Api/.vs/E-commerce_Api/FileContentIndex/2d903399-9450-4b46-baf5-2ed2a5f42795.vsidx
+/E-commerce_Api/.vs/E-commerce_Api/FileContentIndex/7836fd45-0c9e-4a23-a84b-11674ec6264d.vsidx
+/E-commerce_Api/.vs/E-commerce_Api/FileContentIndex/a37705c1-bd67-4da8-989f-c73b38fb3061.vsidx
+/E-commerce_Api/.vs/E-commerce_Api/FileContentIndex/eefaa4a5-8ebf-4dca-a319-128e4e31e3b0.vsidx
+/E-commerce_Api/.vs/E-commerce_Api/FileContentIndex/f337f291-d49c-4f43-9db5-7ae4a81dadfe.vsidx
+/E-commerce_Api/.vs/E-commerce_Api/DesignTimeBuild/.dtbcache.v2
