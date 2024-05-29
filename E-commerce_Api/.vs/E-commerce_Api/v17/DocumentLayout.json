@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OPI\\E-commerce_full_project\\E-commerce_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A3557-0A95-4911-A6E3-9248BC322037}|Domain\\Domain.csproj|d:\\opi\\e-commerce_full_project\\e-commerce_api\\domain\\enums\\preferredpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6A3557-0A95-4911-A6E3-9248BC322037}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\preferredpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A3557-0A95-4911-A6E3-9248BC322037}|Domain\\Domain.csproj|d:\\opi\\e-commerce_full_project\\e-commerce_api\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6A3557-0A95-4911-A6E3-9248BC322037}|Domain\\Domain.csproj|solutionrelative:domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A3557-0A95-4911-A6E3-9248BC322037}|Domain\\Domain.csproj|d:\\opi\\e-commerce_full_project\\e-commerce_api\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6A3557-0A95-4911-A6E3-9248BC322037}|Domain\\Domain.csproj|solutionrelative:domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A3557-0A95-4911-A6E3-9248BC322037}|Domain\\Domain.csproj|d:\\opi\\e-commerce_full_project\\e-commerce_api\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6A3557-0A95-4911-A6E3-9248BC322037}|Domain\\Domain.csproj|solutionrelative:domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PreferredPayment.cs",
+              "DocumentMoniker": "D:\\OPI\\E-commerce_full_project\\E-commerce_Api\\Domain\\Enums\\PreferredPayment.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\PreferredPayment.cs",
+              "ToolTip": "D:\\OPI\\E-commerce_full_project\\E-commerce_Api\\Domain\\Enums\\PreferredPayment.cs",
+              "RelativeToolTip": "Domain\\Enums\\PreferredPayment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T19:39:55.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\OPI\\E-commerce_full_project\\E-commerce_Api\\Domain\\Category.cs",
+              "RelativeDocumentMoniker": "Domain\\Category.cs",
+              "ToolTip": "D:\\OPI\\E-commerce_full_project\\E-commerce_Api\\Domain\\Category.cs",
+              "RelativeToolTip": "Domain\\Category.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:55:29.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\OPI\\E-commerce_full_project\\E-commerce_Api\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\User.cs",
+              "ToolTip": "D:\\OPI\\E-commerce_full_project\\E-commerce_Api\\Domain\\User.cs",
+              "RelativeToolTip": "Domain\\User.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:49:31.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\OPI\\E-commerce_full_project\\E-commerce_Api\\Domain\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Product.cs",
+              "ToolTip": "D:\\OPI\\E-commerce_full_project\\E-commerce_Api\\Domain\\Product.cs",
+              "RelativeToolTip": "Domain\\Product.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:04:36.539Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
